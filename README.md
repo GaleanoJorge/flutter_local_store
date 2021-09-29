@@ -1,6 +1,8 @@
 # flutter_store_local
 
-A new Flutter project.
+este proyecto de flutter permite guadar de manera local poca información en tuplas key-value usando la librería shared_preferences, más información sobre el tema se puede encontrar en el cookbook de flutter sección persistence:
+
+https://flutter.dev/docs/cookbook/persistence/key-value
 
 ## Getting Started
 
